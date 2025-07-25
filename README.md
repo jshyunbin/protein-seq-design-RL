@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/design.png" alt="Image 1" height="180px" style="object-fit:contain;"/>
+  <img src="images/design2.png" alt="Image 2" height="180px" style="object-fit:contain;"/>
+</p>
+
 ## CS492(B) Project Team 4
 ### Third-party libraries
 - Install [omegafold](https://github.com/HeliXonProtein/OmegaFold)
